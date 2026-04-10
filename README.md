@@ -34,6 +34,9 @@ The model's performance is analyzed by comparing predictions against expert-anno
 <p align="center">
   <img src="/showcase_1.png" alt="Bone Fracture MAS Segmentation Performance Showcase" width="85%" />
 </p>
+<p align="center">
+  <img src="/showcase_2.png" alt="Bone Fracture MAS Segmentation Performance Showcase" width="85%" />
+</p>
 
 > **Note:** As seen in the Differential Performance Analysis panel, the system achieves a very high Dice score (0.9854 in this example), with almost no False Positives or False Negatives. Ensure the image is uploaded to the `github_showcase` folder.
 
