@@ -52,8 +52,5 @@ pip install torch opencv-python numpy pandas pycocotools tqdm matplotlib tabulat
    ```bash
    git clone [https://github.com/sumeyyebakirdal/Multi_Agent_X-ray_Segmentation.git](https://github.com/sumeyyebakirdal/Multi_Agent_X-ray_Segmentation.git)
    cd Multi_Agent_X-ray_Segmentation
-2. **Run the segmentation**
-```bash
-python main.py
 
 
