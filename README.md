@@ -46,11 +46,17 @@ Ensure you have Python 3.8+ installed. You can install the necessary dependencie
 
 ```bash
 pip install torch opencv-python numpy pandas pycocotools tqdm matplotlib tabulate
-### 🏃 Quick Start
+```
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/sumeyyebakirdal/Multi_Agent_X-ray_Segmentation.git](https://github.com/sumeyyebakirdal/Multi_Agent_X-ray_Segmentation.git)
-   cd Multi_Agent_X-ray_Segmentation
+```bash
+git clone https://github.com/sumeyyebakirdal/Multi_Agent_X-ray_Segmentation.git
+cd Multi_Agent_X-ray_Segmentation
+```
+
+2. **Run the project:**
+```bash
+python main.py
+```
 
 
